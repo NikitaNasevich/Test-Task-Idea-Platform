@@ -10,7 +10,7 @@
 # Установка и запуск
 Клонируем репозиторий:
 
-- git@github.com:NikitaNasevich/Test-Task-Idea-Platform.git
+git clone https://github.com/NikitaNasevich/Test-Task-Idea-Platform.git
 - cd Test-Task-Idea-Platform
 
 Собираем jar:
